@@ -1,0 +1,24 @@
+Light Weight Java Game Library (LWJGL) / 
+
+>>>record 2D/3D, its programming language, one useful feature and an official source link. Then choose one you would try and give one reason.
+
+Game x:Name=Minecraft
+Goal: End game achievements, creation of whatever comes to mind, survival, adventure.
+Player Action: resource collection, equipment upgrades, monsters (mobs) slain, buildings constructed, farming and fishing, travelling the (what feels like) limitless world of randomly generated terrain.
+Feedback: Animations of items/hands moving, mobs killed + droppings, blocks mined, achievements earned
+Source Link: https://www.minecraft.net/en-us
+
+Files/Folders within OS
+
+Creation of story using Word Processor (Microsoft Word) ***
+	Story, context, fans
+
+Developing code using and IDE (Visual Studio/VScode)
+	logical, data, visual hats
+
+3-D attributes and application (Maya, Blender, 3DS)
+
+Games made through Game Engines (Unity (built on C#), Unreal)
+	lighting, gravity, sounds/music
+
+
